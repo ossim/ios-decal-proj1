@@ -1,5 +1,13 @@
 # Project 1: Hangman #
 
+## David Xie's Submission## 
+This is David Xie's submission to iOS Decal Spring 2017's first project, the Hangman App. I implemented a cleaner text entry method, with an grid of letter buttons instead of the keyboard input for ease and simplicity. All assigned features delineated below can also be found in my implementation.'
+
+I hope you have fun playing with my app!
+
+******
+
+
 ## Due Date ##
 Tuesday, February 28 at 11:59 PM
 
