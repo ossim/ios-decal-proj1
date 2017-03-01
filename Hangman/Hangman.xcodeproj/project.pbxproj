@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6F4E05011E663AF70098E9D6 /* StringIndexing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F4E05001E663AF70098E9D6 /* StringIndexing.swift */; };
+		6F4E05031E665E590098E9D6 /* StringIndexing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F4E05021E665E590098E9D6 /* StringIndexing.swift */; };
 		ECC22F431C89177600749E58 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECC22F421C89177600749E58 /* AppDelegate.swift */; };
 		ECC22F481C89177600749E58 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECC22F461C89177600749E58 /* Main.storyboard */; };
 		ECC22F4A1C89177600749E58 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECC22F491C89177600749E58 /* Assets.xcassets */; };
@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		6F4E05001E663AF70098E9D6 /* StringIndexing.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StringIndexing.swift; path = ../../../../../Downloads/StringIndexing.swift; sourceTree = "<group>"; };
+		6F4E05021E665E590098E9D6 /* StringIndexing.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringIndexing.swift; sourceTree = "<group>"; };
 		ECC22F3F1C89177600749E58 /* Hangman.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hangman.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECC22F421C89177600749E58 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ECC22F471C89177600749E58 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -93,7 +93,7 @@
 		6F4E04FF1E663ACE0098E9D6 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				6F4E05001E663AF70098E9D6 /* StringIndexing.swift */,
+				6F4E05021E665E590098E9D6 /* StringIndexing.swift */,
 			);
 			name = Extensions;
 			sourceTree = "<group>";
@@ -309,7 +309,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F4E05011E663AF70098E9D6 /* StringIndexing.swift in Sources */,
+				6F4E05031E665E590098E9D6 /* StringIndexing.swift in Sources */,
 				ECC22F711C8917C200749E58 /* HangmanViewController.swift in Sources */,
 				ECC22F431C89177600749E58 /* AppDelegate.swift in Sources */,
 				ECC22F7E1C891CF800749E58 /* HangmanPhrases.swift in Sources */,
